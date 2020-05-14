@@ -1,4 +1,4 @@
-Django==2.2.0
+django==2.2.10
 django-elasticsearch-dsl==6.4.2
 djangorestframework==3.11.0
 elasticsearch-dsl==6.4.0
