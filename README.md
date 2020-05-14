@@ -25,3 +25,6 @@
     python manage.py runserver
 6. 查看
     在浏览器: 127.0.0.1:8000 查看
+7. 截图
+    ![](/Snipaste_2020-05-14_11-08-27.png)
+    ![](/Snipaste_2020-05-14_11-11-01.png)
